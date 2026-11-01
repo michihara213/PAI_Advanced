@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+install/
+log/
+*.db3
+*.db3-shm
+*.db3-wal
+*.mcap
+results/dataset.npz
+*.mp4
+.DS_Store
+Thumbs.db

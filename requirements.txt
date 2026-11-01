@@ -1,0 +1,3 @@
+# ROS packages are provided by ROS 2 Humble, not installed through this file.
+numpy>=1.21,<3
+matplotlib>=3.5,<4
