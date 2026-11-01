@@ -1,0 +1,43 @@
+{
+  "provenance": "Transcribed from the user-provided terminal output. Not a rerun of evaluation.",
+  "method": "Phase-conditioned Gaussian RBF ridge regression",
+  "train": [
+    "ep01",
+    "ep02",
+    "ep03",
+    "ep04",
+    "ep05",
+    "ep06",
+    "ep07",
+    "ep08"
+  ],
+  "test": [
+    "ep09",
+    "ep10"
+  ],
+  "test_rmse_per_joint_rad": [
+    0.03679957585239371,
+    0.0,
+    0.012406744929287611,
+    0.0,
+    0.0
+  ],
+  "constant_baseline_test_rmse_per_joint_rad": [
+    0.2275088143653083,
+    0.0,
+    0.17907787523986107,
+    0.0,
+    1.0325074129013956e-14
+  ],
+  "train_rmse_rad": 0.014910729231147073,
+  "test_rmse_rad": 0.017367418361152485,
+  "names": [
+    "crane_plus_joint1",
+    "crane_plus_joint2",
+    "crane_plus_joint3",
+    "crane_plus_joint4",
+    "crane_plus_joint_hand"
+  ],
+  "duration_sim_s": 38.3,
+  "note": "Offline target error, NOT Gazebo success rate. Test episodes were not fitted."
+}

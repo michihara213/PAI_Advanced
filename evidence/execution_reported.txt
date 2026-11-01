@@ -1,0 +1,6 @@
+Transcribed from the successful user execution:
+Gazebo motion: slow start positioning + learned wave, 41.4 sim-s. Ctrl+C cancels.
+RUN OK: both controllers reported success. Check the visible wave in Gazebo.
+
+The user reported a clean motion and provided the recording.
+This is not a repeated-trial success-rate measurement.
